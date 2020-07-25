@@ -1,8 +1,0 @@
-[Android_MotoG5Plus INFO ] 2020-07-08 15:45:07.913 ServerManager:30 - Appium server started
-[Android_MotoG5Plus INFO ] 2020-07-08 15:45:08.185 DriverManager:27 - initializing Appium driver
-[Android_MotoG5Plus INFO ] 2020-07-08 15:45:08.389 CapabilitiesManager:38 - getting capabilities
-[Android_MotoG5Plus INFO ] 2020-07-08 15:45:08.392 CapabilitiesManager:55 - appUrl isD:\eclipse\eclipse\Javaprojects\FreshbeniesMobilenew\src\main\java\com\impiger\freshbeniesmobile\appfiles\freshbenies-1.0.apk
-[Android_MotoG5Plus INFO ] 2020-07-08 15:45:32.932 DriverManager:39 - Driver is initialized
-[Android_MotoG5Plus INFO ] 2020-07-08 15:46:15.919 VideoManager:35 - video path: Android_MotoG5Plus\Videos\Validate login functionality with incorrect credentials.mp4
-[Android_MotoG5Plus INFO ] 2020-07-08 15:46:34.569 VideoManager:35 - video path: Android_MotoG5Plus\Videos\Validate forgotpassword link presence.mp4
-[Android_MotoG5Plus INFO ] 2020-07-08 15:47:07.705 VideoManager:35 - video path: Android_MotoG5Plus\Videos\Validate login functionality with correct credentials.mp4
