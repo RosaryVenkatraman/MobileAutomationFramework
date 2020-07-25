@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="162156" started-at="2020-07-08T10:14:40Z" finished-at="2020-07-08T10:17:22Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="scenario" class="com.impiger.freshbeniesmobile.runner.RunnerBase"/>
+        <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="scenario" class="com.impiger.freshbeniesmobile.runner.RunnerBase"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="MotoG5Plus" duration-ms="155507" started-at="2020-07-08T10:14:40Z" finished-at="2020-07-08T10:17:16Z">
+      <class name="com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest">
+        <test-method status="PASS" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="setUpClass" is-config="true" duration-ms="55383" started-at="2020-07-08T10:14:40Z" finished-at="2020-07-08T10:15:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ZY223ZNQXX]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MotoG5Plus]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="scenario" duration-ms="40784" started-at="2020-07-08T10:15:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:16:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate login functionality with incorrect credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="scenario" duration-ms="18625" started-at="2020-07-08T10:16:16Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate forgotpassword link presence"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="scenario" duration-ms="33048" started-at="2020-07-08T10:16:35Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:17:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate login functionality with correct credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest@5c3bd550]" name="tearDownClass" is-config="true" duration-ms="7614" started-at="2020-07-08T10:17:08Z" finished-at="2020-07-08T10:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest -->
+    </test> <!-- MotoG5Plus -->
+    <test name="Android_v10" duration-ms="162156" started-at="2020-07-08T10:14:40Z" finished-at="2020-07-08T10:17:22Z">
+      <class name="com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest">
+        <test-method status="PASS" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="setUpClass" is-config="true" duration-ms="57095" started-at="2020-07-08T10:14:40Z" finished-at="2020-07-08T10:15:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android_v10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11002]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="scenario" duration-ms="45731" started-at="2020-07-08T10:15:37Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate login functionality with incorrect credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="scenario" duration-ms="20367" started-at="2020-07-08T10:16:23Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:16:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate forgotpassword link presence"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="scenario" duration-ms="37409" started-at="2020-07-08T10:16:43Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-08T10:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate login functionality with correct credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Freshbenies Login Page Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest@55f3ddb1]" name="tearDownClass" is-config="true" duration-ms="1529" started-at="2020-07-08T10:17:21Z" finished-at="2020-07-08T10:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest -->
+    </test> <!-- Android_v10 -->
+  </suite> <!-- Suite -->
+</testng-results>

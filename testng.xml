@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <!-- <test name="TestEmulator">
+   		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="TestEmulator" />
+		<parameter name="systemPort" value="10000" />
+		<parameter name="chromeDriverPort" value="11000" />
+     <classes>
+         <class name="com.impiger.freshbeniesmobile.runner.TestEmulatorTestNGRunnerTest"/>
+    </classes>
+  </test>  -->
+  
+   <test name="Android_v10">
+   		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="Android_v10" />
+		<parameter name="systemPort" value="10002" />
+		<parameter name="chromeDriverPort" value="11002" />
+     <classes>
+         <class name="com.impiger.freshbeniesmobile.runner.Android_v10TestNGRunnerTest"/>
+    </classes>
+  </test>
+  
+  <test name="MotoG5Plus">
+   		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="ZY223ZNQXX" />
+		<parameter name="deviceName" value="MotoG5Plus" />
+		<parameter name="systemPort" value="10001" />
+		<parameter name="chromeDriverPort" value="11001" />
+		<classes>
+			<class name="com.impiger.freshbeniesmobile.runner.MotoG5PlusTestNGRunnerTest"></class>
+		</classes>
+	</test>
+	
+	<!-- <test name="iPhone XR">
+		<parameter name="platformName" value="iOS" />
+		<parameter name="udid" value="B94C117E-F29F-417B-925B-913323052A0C" />
+		<parameter name="deviceName" value="iPhone XR" />
+		<parameter name="wdaLocalPort" value="10002" />
+		<parameter name="webkitDebugProxyPort" value="11002" />
+		<classes>
+			<class name="com.impiger.freshbeniesmobile.runner.iPhoneXRTestNGRunnerTest"></class>
+		</classes>
+	</test> -->
+</suite> <!-- Suite -->

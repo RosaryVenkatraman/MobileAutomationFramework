@@ -1,0 +1,843 @@
+{
+    "mybenefits": [{
+                   "T7": {
+                   "benefitName":"Telehealth",
+                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-847-3627",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "Call now to set up your account or speak with a doctor 24/7",
+                   "benefitsUseTitle" : "Launch Teladoc App"
+                   }
+                   },{
+                   "D8": {
+                   "benefitName":"Telehealth",
+                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-847-3627",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "Call now to set up your account or speak with a doctor 24/7",
+                   "benefitsUseTitle" : "Launch Teladoc App"
+                   }
+                   },{
+                   "D2": {
+                   "benefitName":"Telehealth",
+                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-847-3627",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "Call now to set up your account or speak with a doctor 24/7",
+                   "benefitsUseTitle" : "Launch Teladoc App"
+                   }
+                   },{
+                   "D3": {
+                   "benefitName":"Telehealth",
+                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-847-3627",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "Call now to set up your account or speak with a doctor 24/7",
+                   "benefitsUseTitle" : "Launch Teladoc App"
+                   }
+                   },{
+                   "TD": {
+                   "benefitName":"Telehealth",
+                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-847-3627",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "Call now to set up your account or speak with a doctor 24/7",
+                   "benefitsUseTitle" : "Launch Teladoc App"
+                   }
+                   }, {
+                   "FW": {
+                   "benefitName":"Behavioral Telehealth by WellVia",                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-373-7450",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "To arrange an appointment",
+                   "benefitsUseTitle" : "Launch WellVia App"
+                   }
+                   }, {
+                   "FV": {
+                   "benefitName":"Telehealth by WellVia",                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-373-7450",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "To arrange an appointment",
+                   "benefitsUseTitle" : "Launch WellVia App"
+                   }
+                   }, {
+                   "FR": {
+                   "benefitName":"Telehealth by WellVia",                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-373-7450",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "To arrange an appointment",
+                   "benefitsUseTitle" : "Launch WellVia App"
+                   }
+                   }, {
+                   "FD": {
+                   "benefitName":"Behavioral Telehealth by WellVia",                   "benefitsURls":"https://content.newbenefits.com/rsscontent.aspx?hash=FKaGXXy8RV5SJmoUqAWR7Q",
+                   "benefitsPhone" : "855-373-7450",
+                   "benefitsUseURL" : "https://member2.teladoc.com/feelbetter",
+                   "benefitsLaunchURL" : "https://itunes.apple.com/us/app/teladoc-member-24-7-access/id656872607?mt=8",
+                   "benefitsPhoneDesc" : "To arrange an appointment",
+                   "benefitsUseTitle" : "Launch WellVia App"
+                   }
+                   }, {
+                   "WD": {
+                   "benefitName": "Doctors Online",
+                   "benefitsPhone": "",
+                   "benefitsUseURL": "https://itunes.apple.com/us/app/edocamerica/id514917400?mt=8",
+                   "benefitsLaunchURL": "https://www.edocamerica.com/default.aspx?",
+                   "benefitsPhoneDesc": "",
+                   "benefitsUseTitle": "Use This Benefit"
+                   }
+                   },
+                   {
+                   "DO": {
+                   "benefitName": "Doctors Online",
+                   "benefitsPhone": "",
+                   "benefitsUseURL": "https://itunes.apple.com/us/app/edocamerica/id514917400?mt=8",
+                   "benefitsLaunchURL": "https://www.edocamerica.com/default.aspx?",
+                   "benefitsPhoneDesc": "",
+                   "benefitsUseTitle": "Use This Benefit"
+                   }
+                   },
+                   {
+                   "QY":{
+                   "benefitName": "Medical Health Advisor",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=Evgdv2PajMTVPNkNFUNQ",
+                   "benefitsPhone": "866-272-6009",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/health-advocate-smarthelp/id561029373?mt=8",
+                   "benefitsPhoneDesc": "Monday to Friday, 9:00 am to 10:00 pm",
+                   "benefitsUseTitle": "Launch Health Advocate"
+                   }
+                   },
+                   {
+                   "QX": {
+                   "benefitName": "Medical Bill Saver",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=OtQkf5Fn9MI0122UMXSkUA",
+                   "benefitsPhone": "866-272-6009",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/health-advocate-smarthelp/id561029373?mt=8",
+                   "benefitsPhoneDesc": "Monday to Friday, 9:00 am to 10:00 pm",
+                   "benefitsUseTitle": ""
+                   
+                   }
+                   },
+                   {
+                   "FZ": {
+                   "benefitName": "Health Advocate™ Solutions",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=OtQkf5Fn9MI0122UMXSkUA",
+                   "benefitsPhone": "866-272-6009",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/health-advocate-smarthelp/id561029373?mt=8",
+                   "benefitsPhoneDesc": "Monday to Friday, 9:00 am to 10:00 pm",
+                   "benefitsUseTitle": ""
+                   
+                   }
+                   }, {
+                   "F5": {
+                   "benefitName": "Health Advocate™ Solutions",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=OtQkf5Fn9MI0122UMXSkUA",
+                   "benefitsPhone": "866-272-6009",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/health-advocate-smarthelp/id561029373?mt=8",
+                   "benefitsPhoneDesc": "Monday to Friday, 9:00 am to 10:00 pm",
+                   "benefitsUseTitle": ""
+                   
+                   }
+                   },
+                   {
+                   "CV": {
+                   "benefitName": "Prescription Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=2BflGj8P1UawqxGDpKFg",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "http://www.myrxprice.com/",
+                   "benefitsLaunchURL": "http://www.myrxprice.com/",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Search Local Rx Pricing"
+                   }
+                   }, {
+                   "E8": {
+                   "benefitName": "Prescription Savings by Express Scripts",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=2BflGj8P1UawqxGDpKFg",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "http://www.myrxprice.com/",
+                   "benefitsLaunchURL": "http://www.myrxprice.com/",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Search Local & Mail Order Rx Pricing"
+                   }
+                   }, {
+                   "BW": {
+                   "benefitName": "benieWALLET",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=2BflGj8P1UawqxGDpKFg",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "http://www.myrxprice.com/",
+                   "benefitsLaunchURL": "http://www.myrxprice.com/",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Search Local Rx Pricing"
+                   }
+                   }, {
+                   "QJ": {
+                   "benefitName": "Prescription Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=2BflGj8P1UawqxGDpKFg",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "http://www.myrxprice.com/",
+                   "benefitsLaunchURL": "http://www.myrxprice.com/",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Search Local Rx Pricing"
+                   }
+                   },
+                   {
+                   "RX": {
+                   "benefitName": "Prescription Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=2BflGj8P1UawqxGDpKFg",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "http://www.myrxprice.com/",
+                   "benefitsLaunchURL": "http://www.myrxprice.com/",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Search Local Rx Pricing"
+                   }
+                   }
+                   , {
+                   "7A": {
+                   "benefitName": "LifeLock™",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=5s68LkclAhV2kyKWMAK41w",
+                   "benefitsPhone": "800-543-3562",
+                   "benefitsUseURL": "https://www.lifelock.com/",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/lifelock-wallet-store-your/id910217149?mt=8",
+                   "benefitsPhoneDesc": "To manage your account 24/7",
+                   "benefitsUseTitle": "Launch LifeLock App",
+                   "benefitsVideoURl": "https://www.youtube.com/watch?v=Jxqv-6zggzA&index=2&list=PLMWLB9s_cf7Wm"
+                   }
+                   },{
+                   "7B": {
+                   "benefitName": "LifeLock™",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=5s68LkclAhV2kyKWMAK41w",
+                   "benefitsPhone": "800-543-3562",
+                   "benefitsUseURL": "https://www.lifelock.com/",
+                   "benefitsLaunchURL": "https://itunes.apple.com/us/app/lifelock-wallet-store-your/id910217149?mt=8",
+                   "benefitsPhoneDesc": "To manage your account 24/7",
+                   "benefitsUseTitle": "Launch LifeLock App",
+                   "benefitsVideoURl": "https://www.youtube.com/watch?v=Jxqv-6zggzA&index=2&list=PLMWLB9s_cf7Wm"
+                   }
+                   },{
+                   "I4": {
+                   "benefitName": "Legal Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=Yzv0AweuCe8MntKbbxjmA",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Use This Benefit"
+                   }
+                   }, {
+                   "PE": {
+                   "benefitName": "Pet Care Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=RgW7cg166lCfQAeGfJ2w",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "https://www.petassure.com/nb",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Locate a Provider",
+                   "benefitsAdditionalDiscounts": "Visit Pet Assure Portal"
+                   }
+                   },{
+                   "PH": {
+                   "benefitName": "Pet Care Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=RgW7cg166lCfQAeGfJ2w",
+                   "benefitsPhone": "855-647-6762",
+                   "benefitsUseURL": "https://www.petassure.com/nb",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Locate a Provider",
+                   "benefitsAdditionalDiscounts": "Visit Pet Assure Portal"
+                   }
+                   }, {
+                       "FY": {
+                           "benefitName": "Pet Telehealth",
+                           "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=RgW7cg166lCfQAeGfJ2w",
+                           "benefitsPhone": "855-647-6762",
+                           "benefitsUseURL": "https://www.petassure.com/nb",
+                           "benefitsLaunchURL": "",
+                           "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                           "benefitsUseTitle": "Locate a Provider",
+                           "benefitsAdditionalDiscounts": "Visit Pet Assure Portal"
+                       }
+                   }, {
+                       "FK": {
+                           "benefitName": "Pet Savings",
+                           "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=RgW7cg166lCfQAeGfJ2w",
+                           "benefitsPhone": "855-647-6762",
+                           "benefitsUseURL": "https://www.petassure.com/nb",
+                           "benefitsLaunchURL": "",
+                           "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                           "benefitsUseTitle": "Locate a Provider",
+                           "benefitsAdditionalDiscounts": "Visit Pet Assure Portal"
+                       }
+                   }, {
+                       "9C": {
+                           "benefitName": "ID Sanctuary",
+                           "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=RgW7cg166lCfQAeGfJ2w",
+                           "benefitsPhone": "866-718-4805",
+                           "benefitsUseURL": "https://www.petassure.com/nb",
+                           "benefitsLaunchURL": "",
+                           "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                           "benefitsUseTitle": "Locate a Provider",
+                           "benefitsAdditionalDiscounts": "Visit Pet Assure Portal"
+                       }
+                   }, {
+                   "EP": {
+                   "benefitsName": "Dental Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=jeJHEyB9FDYOUZYTPnvfhA",
+                   "benefitsPhone": "888-354-8342",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Locate a Provider",
+                   "benefitsDisclosure": "Aetna Dental Access Disclosure"
+                   }
+                   }, {
+                   "V ": {
+                   "benefitsName": "Vision Savings",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=spjiQfDgkUOLpAp9K4Kf5g",
+                   "benefitsPhone": "",
+                   "benefitsPhoneArray": [{
+                                          "benefitPhoneNo": "855-647-6762",
+                                          "benefitPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                                          "benefitPhoneTitle": "FIND A PROVIDER"
+                                          }, {
+                                          "benefitPhoneNo": "855-647-6762",
+                                          "benefitPhoneDesc": "Monday to Friday, 7:00 am to 7:00 pm \n Saturday, 8:00 am to 5:00 pm",
+                                          "benefitPhoneTitle": "MAIL ORDER CONTACTS"
+                                          }, {
+                                          "benefitPhoneNo": "855-647-6762",
+                                          "benefitPhoneDesc": "Monday to Friday, 7:00 am to 6:30 pm \n Saturday, 9:00 am to 3:00 pm",
+                                          "benefitPhoneTitle": "LASER SURGERY"
+                                          
+                                          }],
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "Today 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Locate a Provider"
+                   }
+                   }, {
+                   "SD": {
+                   "benefitName": "Roadside Assistance",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=KnhJGp4N3fq7uHGIUH5Bfw",
+                   "benefitsPhone": "866-611-7043",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "",
+                   "benefitsPhoneDesc": "To request service 24/7",
+                   "benefitsUseTitle": "Use This Benefit",
+                   "benefitsOffer": "Vision Offers"
+                   }
+                   }, {
+                   "SI": {
+                   "benefitName": "SafeIdentity",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=y79lZC1wlmeRSxwsbGcNaQ",
+                   "benefitsPhone": "877-406-1017",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://www.safeidentity.info",
+                   "benefitsPhoneDesc": "To set up your account and learn more",
+                   "benefitsUseTitle": "Use This Benefit"
+                   
+                   }
+                   }, {
+                   "F2": {
+                   "benefitName": "Online Wellness",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=LGHkuNBYE3AVR00jH6SRg",
+                   "benefitsPhone": "",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://myewellness.com/login.aspx",
+                   "benefitsPhoneDesc": "Today 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Use This Benefit"
+                   }
+                   }, {
+                   "WE": {
+                   "benefitName": "Online Wellness",
+                   "benefitsURls": "https://content.newbenefits.com/rsscontent.aspx?hash=LGHkuNBYE3AVR00jH6SRg",
+                   "benefitsPhone": "",
+                   "benefitsUseURL": "https://members.healthadvocate.com/Secure/Default.aspx",
+                   "benefitsLaunchURL": "https://myewellness.com/login.aspx",
+                   "benefitsPhoneDesc": "Today 8:00 am to 5:00 pm",
+                   "benefitsUseTitle": "Use This Benefit"
+                   }
+                   }],
+    "MyRx":[
+            {
+            "RxName":"Simvastatin",
+            "RxDescription":"30 Tablets 20mg",
+            "RxPrice":"10.75"
+            },
+            {
+            "RxName":"Atorvastatin",
+            "RxDescription":"30 Tablets 20mg",
+            "RxPrice":"14.12",
+            "RxPriceDescription":"Average"
+            },
+            {
+            "RxName":"Methylphenidate",
+            "RxDescription":"60 Tablets 20mg",
+            "RxPrice":"63.15"
+            }
+            ],
+    "memberCardBackDetails": {
+        "QY" :
+        {
+            "logo": true,
+            "logoName" : "health_advocate",
+            "contacts": [
+                         {
+                         "label": "Advocacy",
+                         "number": "866-272-6009"
+                         }
+                         ]
+        },
+        "QX" :
+        {
+            "logo": true,
+            "logoName" : "health_advocate",
+            "contacts": [
+                         {
+                         "label": "Medical Bill Saver™",
+                         "number": "866-272-6009"
+                         }
+                         ]
+        },
+        "IM" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "MRI & CT Scan",
+                         "number": "877-814-2461"
+                         }
+                         ]
+        },
+        "RX" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Prescription Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "CV" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Prescription Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "QJ" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Prescription Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "FZ" :
+        {
+            "logo": true,
+            "logoName" : "alight",
+            "contacts": [
+                         {
+                         "label": "Advocacy PLUS",
+                         "number": "877-412-3108"
+                         }
+                         ]
+        },
+        "C " :
+        {
+            "logo": true,
+            "logoName" : "chiropractic_card_logo",
+            "contacts": [
+                         {
+                         "label": "Chiropractic",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "CO" :
+        {
+            "logo": true,
+            "logoName" : "cariloop",
+            "contacts": [
+                         {
+                         "label": "Caregiver Support",
+                         "number": "844-529-5783"
+                         }
+                         ]
+        },
+        "F4" :
+        {
+            "logo": true,
+            "logoName" : "cariloop",
+            "contacts": [
+                {
+                    "label": "Caregiver Support",
+                    "number": "844-529-5783"
+                }
+            ]
+        },
+        "SI" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Safe Identity (Code 8716)",
+                         "number": "877-406-1017"
+                         }
+                         ]
+        },
+        "T7" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "B2" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "D8" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "D2" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "D3" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "TD" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                         {
+                         "label": "Teladoc",
+                         "number": "855-847-3627"
+                         }
+                         ]
+        },
+        "DW" :
+        {
+            "logo": true,
+            "logoName" : "teladoc",
+            "contacts": [
+                {
+                    "label": "Teladoc",
+                    "number": "855-847-3627"
+                }
+            ]
+        },
+        "SD" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Road Assist (Code 47128)",
+                         "number": "866-611-7043"
+                         }
+                         ]
+        },
+        "EP" :
+        {
+            "logo": true,
+            "logoName" : "aetnadental",
+            "contacts": [
+                         {
+                         "label": "Dental Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "U3" :
+        {
+            "logo": true,
+            "logoName" : "human_dental",
+            "contacts": [
+                         {
+                         "label": "Dental Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "HU" :
+        {
+            "logo": true,
+            "logoName" : "human_dental",
+            "contacts": [
+                         {
+                         "label": "Dental Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "I4" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Legal Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "7A" :
+        {
+            "logo": true,
+            "logoName" : "lifeLockLogo",
+            "contacts": [
+                         {
+                         "label": "LifeLock",
+                         "number": "800-543-3562"
+                         }
+                         ]
+        },
+        "7B" :
+        {
+            "logo": true,
+            "logoName" : "lifeLockLogo",
+            "contacts": [
+                         {
+                         "label": "LifeLock",
+                         "number": "800-543-3562"
+                         }
+                         ]
+        },
+        "V " :
+        {
+            "logo": true,
+            "logoName" : "coastto",
+            "contacts": [
+                         {
+                         "label": "Vision Savings",
+                         "number": "855-647-6762"
+                         }]
+        },
+        "PE" :
+        {
+            "logo": true,
+            "logoName" : "petassure",
+            "contacts": [
+                         {
+                         "label": "Pet Care Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "PH" :
+        {
+            "logo": true,
+            "logoName" : "petassure",
+            "contacts": [
+                         {
+                         "label": "Pet Care Savings",
+                         "number": "855-647-6762"
+                         }
+                         ]
+        },
+        "WD" :
+        {
+            "logo": true,
+            "logoName" : "eDocAmerica",
+            "contacts": []
+        },
+        "DO" :
+        {
+            "logo": true,
+            "logoName" : "eDocAmerica",
+            "contacts": []
+        },
+        "D1" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Diabetic Supply Savings",
+                         "number": "866-274-6199"
+                         }
+                         ]
+        },
+        "CE" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Medical Equipment Savings",
+                         "number": "800-861-3211"
+                         }
+                         ]
+        },
+        "2E" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": "Lab Test Savings",
+                         "number": "877-281-7042"
+                         }
+                         ]
+        },
+        "HA" :
+        {
+            "logo": false,
+            "logoName" : "",
+            "contacts": [
+                         {
+                         "label": " Hearing Aid Savings",
+                         "number": "844-529-5779"
+                         }
+                         ]
+        },
+        "FW" :
+        {
+            "logo": true,
+            "logoName" : "well_via",
+            "contacts": [
+                {
+                    "label": "WellVia",
+                    "number": "855-373-7450"
+                }
+            ]
+        },
+        "FD" :
+        {
+            "logo": true,
+            "logoName" : "well_via",
+            "contacts": [
+                {
+                    "label": "WellVia",
+                    "number": "855-373-7450"
+                }
+            ]
+        },
+        "FR" :
+        {
+            "logo": true,
+            "logoName" : "well_via",
+            "contacts": [
+                {
+                    "label": "WellVia",
+                    "number": "855-373-7450"
+                }
+            ]
+        },
+        "FV" :
+        {
+            "logo": true,
+            "logoName" : "well_via",
+            "contacts": [
+                {
+                    "label": "WellVia",
+                    "number": "855-373-7450"
+                }
+            ]
+        },
+        "QU" :
+        {
+            "logo": true,
+            "logoName" : "alight",
+            "contacts": [
+                {
+                    "label": "Health Advocate",
+                    "number": "866-272-6009"
+                }
+            ]
+        },
+        "9C" :
+        {
+            "logo": true,
+            "logoName" : "id_sanctuary",
+            "contacts": [
+                {
+                    "label": "ID Sanctuary™",
+                    "number": "866-718-4805 "
+                }
+            ]
+        },
+        "E8" :
+        {
+            "logo": true,
+            "logoName" : "express",
+            "contacts": [
+                {
+                    "label": "Rx Savings",
+                    "number": "855-647-6762"
+                }
+            ]
+        },
+        "FY" :
+        {
+            "logo": true,
+            "logoName" : "whisker",
+            "contacts": [
+                {
+                    "label": "WhiskerDocs",
+                    "number": "833-738-7983"
+                }
+            ]
+        }
+    }
+    
+}

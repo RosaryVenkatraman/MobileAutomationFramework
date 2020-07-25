@@ -1,0 +1,22 @@
+<style>
+body{
+    font-family:"HelveticaNeue";
+    font-size:14px;
+    color:#222222;
+    line-height:%fpx;
+    -webkit-text-size-adjust: none !important;
+}
+
+a,a:link,a:visited,a:hover,a:active {
+    color: #F4380D;
+    text-decoration: underline;
+}
+
+pre {
+    display: block;
+    font-family:"HelveticaNeue";
+    white-space: pre-wrap;
+    margin:0;
+}
+
+</style>

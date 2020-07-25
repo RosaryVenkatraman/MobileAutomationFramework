@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" name="TestEmulator(failed)" parallel="tests">
+    <parameter name="chromeDriverPort" value="11000"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="deviceName" value="TestEmulator"/>
+    <parameter name="systemPort" value="10000"/>
+    <classes>
+      <class name="com.impiger.freshbeniesmobile.runner.TestEmulatorTestNGRunnerTest">
+        <methods>
+          <include name="scenario" invocation-numbers="0"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.impiger.freshbeniesmobile.runner.TestEmulatorTestNGRunnerTest -->
+    </classes>
+  </test> <!-- TestEmulator(failed) -->
+</suite> <!-- Failed suite [Suite] -->
